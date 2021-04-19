@@ -1,0 +1,7 @@
+# 깃 제외
+/classes/
+/test-classes/
+.classpath
+.project
+.springBeans
+.setting/
