@@ -2,7 +2,7 @@ package bo.com.myapp;
 
 import java.util.Scanner;
 
-public class Main {
+public class Main20210422 {
 
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
